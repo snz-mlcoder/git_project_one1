@@ -1,6 +1,8 @@
 body{
     header{background-color: red;}
-    
+    .slider {
+        background-color: yellow;
+    }
     <!DOCTYPE html>
 <html lang="en">
 <head>
